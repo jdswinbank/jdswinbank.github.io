@@ -1,0 +1,109 @@
+body {
+  font-family: "gill sans", sans-serif;
+  font-size: 90%;
+  background-color: #40101d;
+}
+
+div#wholepage {
+  max-width: 800px;
+  margin: auto;
+}
+
+div#header {
+  margin: 0;
+  padding: 45px 1em 15px 1em; 
+  text-align: right;
+  background-image: url(http://urchin.earth.li/~jds/banner.jpg); background-repeat:no-repeat; background-position:center top;
+  margin-bottom: 1em;
+  color: #40101d;
+  background-color: #090907;
+  font-family: "trebuchet ms", "lucida sans", sans-serif; 
+}
+
+div#header h1 {
+  font-size: 300%;
+  margin: 0 0 5px 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+div#header h2 {
+  font-size: 120%;
+  margin: 0 0 5px 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+div.content {
+  background-color: #f8ffdd;
+  color: #2a5441;
+  padding: 1.5em;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  text-align: justify;
+  margin-right: 13em;
+  border: thin #2a5441 solid;
+}
+
+div.content a {
+  border-bottom: 1px dotted #40101d;
+}
+
+div.content h1 {
+  font-size: 150%;
+  font-weight: normal;
+  font-family: "trebuchet ms", "lucida sans", sans-serif;
+  text-indent: 1.5cm;
+}
+
+div#sidebar {
+  width: 12em;
+  float: right;
+  padding: 0;
+  margin-right: 2px;
+}
+
+div.sidebox {
+  width: 100%;
+  background-color: #f8ffdd;
+  color: #2a5441;
+  text-align: right;
+  margin-bottom: 1em;
+  border: thin #2a5441 solid;
+}
+
+div#sidebar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+
+a:link, a:visited, a:hover {
+  color: #40101d;
+  text-decoration: none; 
+}
+
+div#sidebar ul li {
+  display:block; 
+  border-bottom: 1px solid #2a5441;
+  padding: 0.3em;
+}
+
+div#sidebar ul li.last {
+  border: 0;
+}
+
+div#sidebar ul li a:link, div#sidebar ul li a:visited {
+  display: block;
+  padding: 0.2em;
+}
+
+div#sidebar ul li a:hover {
+  display: block;
+  color: #f8ffdd;
+  background-color: #40101d;
+  padding: 0.2em;
+}
+
+

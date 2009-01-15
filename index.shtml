@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  <head>
+    <link rel="stylesheet" type="text/css" href="jds.css" media="screen" />
+    <title>John Swinbank</title>
+  </head>
+
+  <body>
+    <div id="wholepage">
+
+      <div id="header">
+       <h1>John Swinbank</h1>
+       <h2><a href="mailto:swinbank@transientskp.org">swinbank@transientskp.org</a></h2>
+      </div>
+
+      <div id="sidebar">
+        <div class="sidebox">
+          <ul>
+            <li><a href="http://www.astro.uva.nl/">Astronomical Institute &quot;Anton Pannekoek&quot;</a></li>
+            <li><a href="http://www.uva.nl/">University of Amsterdam</a></li>
+            <li><a href="http://www.lofar.org/">LOFAR</a></li>
+            <li><a href="http://www.transientskp.org/">Transients KSP</a></li>
+            <li><a href="http://www.globaljetwatch.net/">Global Jet Watch</a></li>
+            <li><a href="http://www.ox.ac.uk/">University of Oxford</a></li>
+            <li><a href="http://www-astro.physics.ox.ac.uk/">Oxford Astrophysics</a></li>
+            <li class="last"><a href="http://www.hertford.ox.ac.uk/">Hertford College</a></li>
+          </ul>
+        </div>
+        <div class="sidebox" style="padding-top: 0.2em; padding-bottom: 0.2em; text-align: center">
+          <!--#config timefmt="%d %B %Y" -->
+          <p>Last update:<br /><!--#echo var="LAST_MODIFIED" --></p>
+        </div>
+      </div>
+
+      <div class="content">
+
+        <p>
+          I am a postdoctoral researcher at the <a
+          href="http://www.astro.uva.nl/">Astronomical Institute
+          &quot;Anton Pannekoek&quot;</a> of the <a
+          href="http://www.uva.nl/">University of Amsterdam</a>.
+          Previously, I was a member of <a
+          href="http://www.hertford.ox.ac.uk/">Hertford College</a>, <a
+          href="http://www.ox.ac.uk/">Oxford</a>, where I
+          obtained my undergraduate (MPhys) and graduate (DPhil <a
+          href="http://www-astro.physics.ox.ac.uk/">Astrophysics</a>)
+          degrees.
+        </p>
+
+
+        <h1>LOFAR Transients</h1>
+        <p>
+          <a href="http://www.lofar.org/">LOFAR</a>, the LOw Frequency ARray,
+          is a next-generation radio telescope currently under construction in
+          the Netherlands and across Europe.  I am associated with LOFAR's <a
+          href="http://www.transientskp.org/">Transients Key Science
+          Project</a>, where my chief role is to oversee the development of
+          our real-time astronomical transient detection, monitoring and
+          classification pipeline.
+        </p>
+
+        <h1>Global Jet Watch</h1>
+        <p>
+          <a href="http://en.wikipedia.org/wiki/SS_433">SS433</a>, an
+          eclipsing X-ray binary system, is one of the most exotic objects in
+          our galaxy. The <a href="http://www.globaljetwatch.net/">Global Jet
+          Watch</a> project aims to provide round-the-clock monitoring of this
+          object by deploying a network of (relatively) small optical
+          telescopes equipped with custom-built spectrographs to schools
+          around the world. In this way, we hope to combine an exciting
+          scientific education and outreach project with worthwhile
+          astronomical results.
+        </p>
+
+        <h1>Doctoral Work</h1>
+        <p>
+          I completed a DPhil at the University of Oxford under the
+          supervision of Drs Joanne Baker and <a
+          href="http://www-astro.physics.ox.ac.uk/~imh/">Isobel Hook</a>
+          between 2002 and 2006. My research used the <a
+          href="http://www.aao.gov.au/local/www/jbh/ttf/">Taurus Tunable
+          Filter</a>, an innovative instrument on the <a
+          href="http://www.aao.gov.au/">Anglo-Australian Telescope</a>, to
+          probe the star-forming environments of high-redshift quasars.
+        </p>
+
+        <p>
+          My thesis is available for <a
+          href="swinbank-thesis.pdf">download</a> as a PDF; it weighs in at
+          just over 9 MB.
+        </p>
+
+      </div>
+
+    </div>
+  </body>
+</html>
+
