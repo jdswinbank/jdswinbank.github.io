@@ -1,7 +1,7 @@
 body {
   font-family: "gill sans", sans-serif;
   font-size: 90%;
-  background-color: #40101d;
+  background-color: #101040;
 }
 
 div#wholepage {
@@ -15,7 +15,7 @@ div#header {
   text-align: right;
   background-image: url(http://urchin.earth.li/~jds/banner.jpg); background-repeat:no-repeat; background-position:center top;
   margin-bottom: 1em;
-  color: #40101d;
+  color: #101040;
   background-color: #090907;
   font-family: "trebuchet ms", "lucida sans", sans-serif; 
 }
@@ -35,18 +35,18 @@ div#header h2 {
 }
 
 div.content {
-  background-color: #f8ffdd;
-  color: #2a5441;
+  background-color: #ffffeb;
+  color: #101040;
   padding: 1.5em;
   padding-top: 0.2em;
   padding-bottom: 0.2em;
   text-align: justify;
   margin-right: 13em;
-  border: thin #2a5441 solid;
+  border: thin #101040 solid;
 }
 
 div.content a {
-  border-bottom: 1px dotted #40101d;
+  border-bottom: 1px dotted #101040;
 }
 
 div.content h1 {
@@ -65,11 +65,11 @@ div#sidebar {
 
 div.sidebox {
   width: 100%;
-  background-color: #f8ffdd;
-  color: #2a5441;
+  background-color: #ffffeb;
+  color: #101040;
   text-align: right;
   margin-bottom: 1em;
-  border: thin #2a5441 solid;
+  border: thin #101040 solid;
 }
 
 div#sidebar ul {
@@ -80,13 +80,13 @@ div#sidebar ul {
 }
 
 a:link, a:visited, a:hover {
-  color: #40101d;
+  color: #101040;
   text-decoration: none; 
 }
 
 div#sidebar ul li {
   display:block; 
-  border-bottom: 1px solid #2a5441;
+  border-bottom: 1px solid #101040;
   padding: 0.3em;
 }
 
@@ -101,8 +101,8 @@ div#sidebar ul li a:link, div#sidebar ul li a:visited {
 
 div#sidebar ul li a:hover {
   display: block;
-  color: #f8ffdd;
-  background-color: #40101d;
+  color: #ffffeb;
+  background-color: #101040;
   padding: 0.2em;
 }
 
