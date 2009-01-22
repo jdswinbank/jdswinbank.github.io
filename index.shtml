@@ -17,18 +17,25 @@
       </div>
 
       <div id="sidebar">
-        <div class="sidebox">
+        <div class="sidebox" style="padding-top: 0.2em; padding-bottom: 0.2em; text-align: right">
+	  <div id="twitter_div">
+	    <h2 style="display: none;" >Twitter Updates</h2>
+	      <ul id="twitter_update_list"></ul>
+	  </div>
+	  <script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
+	  <script type="text/javascript" src="http://twitter.com/statuses/user_timeline/jdswinbank.json?callback=twitterCallback2&amp;count=4"></script>
+	  <span style="display: block; padding: 0.3em;">
+	  <a href="http://twitter.com/jdswinbank" id="twitter-link">Twitter</a>
+	  </span>
+        </div>
+<!--        <div class="sidebox">
           <ul>
             <li><a href="http://www.astro.uva.nl/">Astronomical Institute &quot;Anton Pannekoek&quot;</a></li>
-            <li><a href="http://www.uva.nl/">University of Amsterdam</a></li>
-            <li><a href="http://www.lofar.org/">LOFAR</a></li>
             <li><a href="http://www.transientskp.org/">Transients KSP</a></li>
             <li><a href="http://www.globaljetwatch.net/">Global Jet Watch</a></li>
-            <li><a href="http://www.ox.ac.uk/">University of Oxford</a></li>
             <li><a href="http://www-astro.physics.ox.ac.uk/">Oxford Astrophysics</a></li>
-            <li class="last"><a href="http://www.hertford.ox.ac.uk/">Hertford College</a></li>
           </ul>
-        </div>
+        </div> -->
         <div class="sidebox" style="padding-top: 0.2em; padding-bottom: 0.2em; text-align: center">
           <!--#config timefmt="%d %B %Y" -->
           <p>Last update:<br /><!--#echo var="LAST_MODIFIED" --></p>
@@ -89,8 +96,8 @@
 
         <p>
           My thesis is available for <a
-          href="swinbank-thesis.pdf">download</a> as a PDF; it weighs in at
-          just over 9 MB.
+          href="jdswinbank-thesis.pdf">download</a>
+          as a PDF; it weighs in at just over 9 MB.
         </p>
 
       </div>

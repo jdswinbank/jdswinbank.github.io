@@ -106,4 +106,25 @@ div#sidebar ul li a:hover {
   padding: 0.2em;
 }
 
+ul#twitter_update_list li span {
+  text-align: left;
+  display: block;
+}
+
+ul#twitter_update_list li span a:hover, ul#twitter_update_list li span a:link, ul#twitter_update_list li span a:visited {
+  display: inline;
+  padding: 0em;
+}
+
+a#twitter-link {
+  padding: 0.2em;
+  display: block;
+}
+
+a#twitter-link:hover {
+  color: #ffffeb;
+  background-color: #101040;
+  padding: 0.2em;
+  display: block;
+}
 
