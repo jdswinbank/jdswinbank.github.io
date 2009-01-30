@@ -22,7 +22,7 @@
         <div class="sidebox" style="padding-top: 0.2em; padding-bottom: 0.2em; text-align: right">
 	  <div id="twitter_div">
 	    <h2 style="display: none;" >Twitter Updates</h2>
-	      <ul id="twitter_update_list"></ul>
+	      <ul id="twitter_update_list"><li id="validate-hack" style="display: none;"></li></ul>
 	  </div>
 	  <script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
 	  <script type="text/javascript" src="http://twitter.com/statuses/user_timeline/jdswinbank.json?callback=twitterCallback2&amp;count=4"></script>
@@ -102,6 +102,51 @@
           as a PDF; it weighs in at just over 9 MB.
         </p>
 
+        <h1>Just for Fun</h1>
+        <p>
+
+          Having joined <a href="http://www.twitter.com/">Twitter</a> recently
+          (purely because I was jealous of the box on <a
+          href="http://astro.berkeley.edu/~claw/">Casey's website</a>), I was
+          inspired to write a little code. I hacked together a simple <a
+          href="http://www.twistedmatrix.com/">Twisted</a> application that
+          displays the latest updates from people you're following on your
+          desktop. It's been tested on both Mac OS (using <a
+          href="http://www.growl.info">Growl</a>; <a
+          href="http://urchin.earth.li/~jds/twitter-osx.jpg">screenshot</a>)
+          and Linux (using <a
+          href="http://www.galago-project.org/">notification-daemon</a>; <a
+          href="http://urchin.earth.li/~jds/twitter-linux.jpg">screenshot</a>).
+        </p>
+
+        <p>
+          It's available for download <a href="twit.tac">here</a>; Mac users
+          may also find this <a href="twit.tac.plist">.plist</a> handy for
+          using with launchd (customise it, and stick it in
+          ~/Library/LaunchAgents). The code depends on the particularly
+          excellent <a
+          href="http://github.com/dustin/twitty-twister/tree/master">Twitty
+          Twister</a> by Dustin Sallings; you'll need that and Twisted
+          installed on your system to get started.  You should edit the file
+          to configure (at least) your Twitter username and password.
+        </p>
+
+        <p>
+          There are a <a
+          href="http://blog.new-bamboo.co.uk/2007/3/2/squawk-twitter-growl-notifications">bunch</a>
+          <a
+          href="http://www.aaronland.info/python/twitter/twnotifier/">of</a>
+          <a href="http://muellerware.org/projects/twit-growl/">similar</a> <a
+          href="http://www.echo-technology.co.uk/2009/01/26/twitter-growl-trowel-v10/">projects</a>
+          out there, but as far as I know none that work with both
+          notification-daemon <em>and</em> Growl. Of course, there are also <a
+          href="https://launchpad.net/gwibber">fully</a>-<a
+          href="http://www.twhirl.org/">fledged</a> <a
+          href="http://iconfactory.com/software/twitterrific">Twitter</a> <a
+          href="http://twitterfox.net/">clients</a> which may provide similar
+          functionality (along with a lot more), but they seem excessive for
+          my needs.
+        </p>
       </div>
 
     </div>
