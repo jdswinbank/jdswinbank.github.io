@@ -1,6 +1,6 @@
 body {
   font-family: "gill sans", sans-serif;
-  font-size: 90%;
+  font-size: 10pt;
   background-color: #101040;
 }
 
@@ -132,21 +132,32 @@ div.dopplr-badge {
   background-color: #ffffeb;
   margin-bottom: 1em;
   text-align: justify;
+  font-family: "gill sans", sans-serif;
+  font-size: 10pt;
+}
+
+div.dopplr-badge p {
+  font-family: "gill sans", sans-serif;
+  font-size: 10pt;
 }
 
 div#sidebar ul.trips {
   list-style-type: circle;
   padding-top: 0.15em
+  font-family: "gill sans", sans-serif;
+  font-size: 10pt;
 }
 
 div#sidebar ul.trips li {
   list-style-type: circle;
   text-align: left;
-  padding-top: 0.15em;
+  padding-top: 0.2em;
   padding-bottom: 0.15em;
   padding-left: 0em;
   margin: 0em;
   border-bottom: none;
+  font-size: 10pt;
+  font-family: "gill sans", sans-serif;
 }
 
 div#sidebar ul.trips li a:link, div#sidebar ul.trips li a:visited {
