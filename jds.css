@@ -128,3 +128,28 @@ a#twitter-link:hover {
   display: block;
 }
 
+div.dopplr-badge {
+  background-color: #ffffeb;
+  margin-bottom: 1em;
+  text-align: justify;
+}
+
+div#sidebar ul.trips {
+  list-style-type: circle;
+  padding-top: 0.15em
+}
+
+div#sidebar ul.trips li {
+  list-style-type: circle;
+  text-align: left;
+  padding-top: 0.15em;
+  padding-bottom: 0.15em;
+  padding-left: 0em;
+  margin: 0em;
+  border-bottom: none;
+}
+
+div#sidebar ul.trips li a:link, div#sidebar ul.trips li a:visited {
+  display: inline;
+  padding: 0em;
+}
