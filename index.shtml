@@ -41,10 +41,6 @@
           </ul>
         </div> -->
 
-        <div id="dopplr-blog-badge-for-jdswinbank" style="border: none;">
-          <script type="text/javascript" src="http://www.dopplr.com/blogbadge/script/482d37c8e7efff7639cb3aed04f0741b?div-id=dopplr-blog-badge-for-jdswinbank"></script>
-        </div>
-
         <div class="sidebox" style="padding-top: 0.2em; padding-bottom: 0.2em; text-align: center">
           <!--#config timefmt="%d %B %Y" -->
           <p>Last update:<br /><!--#echo var="LAST_MODIFIED" --></p>
