@@ -50,28 +50,36 @@
       <div class="content">
 
         <p>
-          I am a postdoctoral researcher at the <a
-          href="http://www.astro.uva.nl/">Astronomical Institute
-          &quot;Anton Pannekoek&quot;</a> of the <a
-          href="http://www.uva.nl/">University of Amsterdam</a>.
-          Previously, I was a member of <a
-          href="http://www.hertford.ox.ac.uk/">Hertford College</a>, <a
-          href="http://www.ox.ac.uk/">Oxford</a>, where I
+          I work at the <a href="http://www.astro.uva.nl/">Astronomical
+          Institute &quot;Anton Pannekoek&quot;</a> of the <a
+          href="http://www.uva.nl/">University of Amsterdam</a>.  Previously,
+          I was a member of <a href="http://www.hertford.ox.ac.uk/">Hertford
+          College</a>, <a href="http://www.ox.ac.uk/">Oxford</a>, where I
           obtained my undergraduate (MPhys) and graduate (DPhil <a
-          href="http://www-astro.physics.ox.ac.uk/">Astrophysics</a>)
-          degrees.
+          href="http://www-astro.physics.ox.ac.uk/">Astrophysics</a>) degrees.
         </p>
 
+
+        <h1>AARTFAAC</h1>
+        <p>
+          <a href="http://www.aartfaac.org/">AARTFAAC</a>, the
+          Amsterdam&ndash;ASTRON Radio Transients Facility and Analysis
+          Centre, is extending LOFAR to provide an always-on, all-sky radio
+          transients monitoring system. This presents a formidable &quot;<a
+          href="http://www.skatelescope.org/">SKA</a>&mdash;scale&quot; data
+          processing challenge. I am the manager for the software development
+          part of the project.
+        </p>
 
         <h1>LOFAR Transients</h1>
         <p>
           <a href="http://www.lofar.org/">LOFAR</a>, the LOw Frequency ARray,
           is a next-generation radio telescope currently under construction in
-          the Netherlands and across Europe.  I am associated with LOFAR's <a
+          the Netherlands and across Europe. I am associated with LOFAR's <a
           href="http://www.transientskp.org/">Transients Key Science
-          Project</a>, where my chief role is to oversee the development of
-          our real-time astronomical transient detection, monitoring and
-          classification pipeline.
+          Project</a>, where I am co-leader of the group developing software
+          and techniques for discovering, classifiying and responding to
+          &quot;slow&quot; (ie timescales of seconds upwards) radio transients.
         </p>
 
         <h1>Global Jet Watch</h1>
