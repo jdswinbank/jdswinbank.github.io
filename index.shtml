@@ -52,11 +52,14 @@
         <p>
           I work at the <a href="http://www.astro.uva.nl/">Astronomical
           Institute &quot;Anton Pannekoek&quot;</a> of the <a
-          href="http://www.uva.nl/">University of Amsterdam</a>.  Previously,
+          href="http://www.uva.nl/">University of Amsterdam</a>. Previously,
           I was a member of <a href="http://www.hertford.ox.ac.uk/">Hertford
           College</a>, <a href="http://www.ox.ac.uk/">Oxford</a>, where I
-          obtained my undergraduate (MPhys) and graduate (DPhil <a
-          href="http://www-astro.physics.ox.ac.uk/">Astrophysics</a>) degrees.
+          studied <a href="http://www.physics.ox.ac.uk/">Physics</a> and, latterly, <a
+          href="http://www-astro.physics.ox.ac.uk/">Astrophysics</a>. Before
+          that, I was born and raised in <a
+          href="http://www.glasgow.gov.uk/">Glasgow</a>, <a
+          href="http://www.scotland.org/">Scotland</a>.
         </p>
 
 
@@ -67,7 +70,7 @@
           Centre, is extending LOFAR to provide an always-on, all-sky radio
           transients monitoring system. This presents a formidable &quot;<a
           href="http://www.skatelescope.org/">SKA</a>&mdash;scale&quot; data
-          processing challenge. I am the manager for the software development
+          processing challenge. I am the manager of the software development
           part of the project.
         </p>
 
@@ -113,55 +116,7 @@
           as a PDF; it weighs in at just over 9 MB.
         </p>
 
-<!--        <h1>Just for Fun</h1>
-        <p>
-
-          Having joined <a href="http://www.twitter.com/">Twitter</a> recently
-          (purely because I was jealous of the box on <a
-          href="http://astro.berkeley.edu/~claw/">Casey's website</a>), I was
-          inspired to write a little code. I hacked together a simple <a
-          href="http://www.twistedmatrix.com/">Twisted</a> application that
-          displays the latest updates from people you're following on your
-          desktop. It's been tested on both Mac OS (using <a
-          href="http://www.growl.info">Growl</a>; <a
-          href="http://urchin.earth.li/~jds/twitter-osx.jpg">screenshot</a>)
-          and Linux (using <a
-          href="http://www.galago-project.org/">notification-daemon</a>; <a
-          href="http://urchin.earth.li/~jds/twitter-linux.jpg">screenshot</a>).
-        </p>
-
-        <p>
-          It's available for download <a href="twit.tac">here</a>; Mac users
-          may also find this <a href="twit.tac.plist">.plist</a> handy for
-          using with launchd (customise it, and stick it in
-          ~/Library/LaunchAgents). The code depends on the particularly
-          excellent <a
-          href="http://github.com/dustin/twitty-twister/tree/master">Twitty
-          Twister</a> by Dustin Sallings; you'll need that and Twisted
-          installed on your system to get started.  You should edit the file
-          to configure (at least) your Twitter username and password.
-        </p>
-
-        <p>
-          There's a <a
-          href="http://jmettraux.wordpress.com/2008/11/04/ruby-twitter-growl/">huge</a>
-          <a
-          href="http://blog.new-bamboo.co.uk/2007/3/2/squawk-twitter-growl-notifications">bunch</a>
-          <a
-          href="http://www.aaronland.info/python/twitter/twnotifier/">of</a>
-          <a href="http://muellerware.org/projects/twit-growl/">similar</a> <a
-          href="http://www.echo-technology.co.uk/2009/01/26/twitter-growl-trowel-v10/">projects</a>
-          out there, but as far as I know none that work with both
-          notification-daemon <em>and</em> Growl. Of course, there are also <a
-          href="https://launchpad.net/gwibber">fully</a>-<a
-          href="http://www.twhirl.org/">fledged</a> <a
-          href="http://iconfactory.com/software/twitterrific">Twitter</a> <a
-          href="http://twitterfox.net/">clients</a> which may provide similar
-          functionality (along with a lot more), but they seem excessive for
-          my needs.
-        </p> -->
       </div>
-
     </div>
   </body>
 </html>
