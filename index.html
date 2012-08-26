@@ -42,8 +42,7 @@
         </div> -->
 
         <div class="sidebox" style="padding-top: 0.2em; padding-bottom: 0.2em; text-align: center">
-          <!--#config timefmt="%d %B %Y" -->
-          <p>Last update:<br /><!--#echo var="LAST_MODIFIED" --></p>
+          <p>Last update:<br />{{ site.time | date: "%d %B %Y" }}</p>
         </div>
       </div>
 
