@@ -11,9 +11,9 @@ div#wholepage {
 
 div#header {
   margin: 0;
-  padding: 45px 1em 15px 1em; 
+  padding: 45px 1em 15px 1em;
   text-align: right;
-  background-image: url(http://urchin.earth.li/~jds/banner.jpg); background-repeat:no-repeat; background-position:center top;
+  background-image: url(banner.jpg); background-repeat:no-repeat; background-position:center top;
   margin-bottom: 1em;
   color: #101040;
   background-color: #090907;
@@ -81,11 +81,11 @@ div#sidebar ul {
 
 a:link, a:visited, a:hover {
   color: #101040;
-  text-decoration: none; 
+  text-decoration: none;
 }
 
 div#sidebar ul li {
-  display:block; 
+  display:block;
   border-bottom: 1px solid #101040;
   padding: 0.3em;
 }
