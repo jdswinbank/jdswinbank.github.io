@@ -143,7 +143,7 @@ div.dopplr-badge p {
 
 div#sidebar ul.trips {
   list-style-type: circle;
-  padding-top: 0.15em
+  padding-top: 0.15em;
   font-family: "gill sans", sans-serif;
   font-size: 10pt;
 }
