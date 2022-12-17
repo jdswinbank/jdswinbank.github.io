@@ -1,5 +1,5 @@
 body {
-  font-family: "Cantarell", sans-serif;
+  font-family: "cantarellregular", sans-serif;
   font-size: 10pt;
   background-color: #101040;
 }
@@ -17,7 +17,7 @@ div#header {
   margin-bottom: 1em;
   color: #101040;
   background-color: #090907;
-  font-family: "Cantarell", sans-serif;
+  font-family: "cantarellregular", sans-serif;
 }
 
 div#header h1 {
@@ -52,7 +52,7 @@ div.content a {
 div.content h1 {
   font-size: 150%;
   font-weight: normal;
-  font-family: "Cantarell", "lucida sans", sans-serif;
+  font-family: "cantarellregular", sans-serif;
   text-indent: 1.5cm;
 }
 
