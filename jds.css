@@ -164,3 +164,9 @@ div#sidebar ul.trips li a:link, div#sidebar ul.trips li a:visited {
   display: inline;
   padding: 0em;
 }
+
+img.logo {
+  vertical-align: -15%;
+  width: 16px;
+  height: 16px;
+}
