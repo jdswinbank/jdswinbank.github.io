@@ -106,65 +106,6 @@ div#sidebar ul li a:hover {
   padding: 0.2em;
 }
 
-ul#twitter_update_list li span {
-  text-align: left;
-  display: block;
-}
-
-ul#twitter_update_list li span a:hover, ul#twitter_update_list li span a:link, ul#twitter_update_list li span a:visited {
-  display: inline;
-  padding: 0em;
-}
-
-a#twitter-link {
-  padding: 0.2em;
-  display: block;
-}
-
-a#twitter-link:hover {
-  color: #ffffeb;
-  background-color: #101040;
-  padding: 0.2em;
-  display: block;
-}
-
-div.dopplr-badge {
-  background-color: #ffffeb;
-  margin-bottom: 1em;
-  text-align: justify;
-  font-family: "gill sans", sans-serif;
-  font-size: 10pt;
-}
-
-div.dopplr-badge p {
-  font-family: "gill sans", sans-serif;
-  font-size: 10pt;
-}
-
-div#sidebar ul.trips {
-  list-style-type: circle;
-  padding-top: 0.15em;
-  font-family: "gill sans", sans-serif;
-  font-size: 10pt;
-}
-
-div#sidebar ul.trips li {
-  list-style-type: circle;
-  text-align: left;
-  padding-top: 0.2em;
-  padding-bottom: 0.15em;
-  padding-left: 0em;
-  margin: 0em;
-  border-bottom: none;
-  font-size: 10pt;
-  font-family: "gill sans", sans-serif;
-}
-
-div#sidebar ul.trips li a:link, div#sidebar ul.trips li a:visited {
-  display: inline;
-  padding: 0em;
-}
-
 img.logo {
   vertical-align: -15%;
   width: 16px;
