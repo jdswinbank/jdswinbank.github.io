@@ -8,6 +8,7 @@ jobs:
     runs-on: docker
     steps:
       - uses: actions/checkout@v7
+      - run: make deploy
       - run: npx --yes wrangler@4 deploy
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
